@@ -1,0 +1,18 @@
+dependencies: \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/ProjectNodeReader/ProjectNodeReader.cpp \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/ProjectNodeReader/ProjectNodeReader.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/base/CCRef.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/CCPlatformMacros.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/base/ccConfig.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/CCPlatformConfig.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/CCPlatformDefine.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CocosStudioExport.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/NodeReaderProtocol.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CSParseBinary_generated.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/flatbuffers/flatbuffers.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/NodeReader/NodeReader.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/WidgetReader/NodeReaderDefine.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/base/ObjectFactory.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/tinyxml2/tinyxml2.h

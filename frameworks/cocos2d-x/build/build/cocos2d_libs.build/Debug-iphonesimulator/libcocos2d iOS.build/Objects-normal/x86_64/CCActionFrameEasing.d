@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CCActionFrameEasing.cpp \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CCActionFrameEasing.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/base/CCRef.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/CCPlatformMacros.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/base/ccConfig.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/CCPlatformConfig.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/CCPlatformDefine.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CocosStudioExport.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/editor-support/cocostudio/DictionaryHelper.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/document-wrapper.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/rapidjson.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/document.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/reader.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/allocators.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/stream.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/encodings.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/encodedstream.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/memorystream.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/meta.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/../rapidjson.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/stack.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/../allocators.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/swap.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/strtod.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/ieee754.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/biginteger.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/diyfp.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/pow10.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/error/error.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/error/../rapidjson.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/strfunc.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/external/json/internal/../stream.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/CCStdC.h \
+  /Users/cobo/workspace/card/ace/frameworks/cocos2d-x/cocos/platform/ios/CCStdC-ios.h
